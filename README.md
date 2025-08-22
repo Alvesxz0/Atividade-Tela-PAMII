@@ -10,6 +10,6 @@
 - npm install @react-navigation/stack
 - npx expo install expo-checkbox
 - npm install @expo/vector-icons
-### E para executar o projeto utilize
+### E para rodar o projeto utilize
 - npx expo start (caso os dispositivos estejam na mesma internet)
 - npx expo start --tunnel (caso não estejam na mesma internet)
