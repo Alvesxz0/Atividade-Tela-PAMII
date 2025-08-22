@@ -1,6 +1,6 @@
 # Atividade de reproduzir telas em react-native
 
-## Como baixar/clonar e rodar o projeto
+### Como baixar/clonar e rodar o projeto:
 ### 1° crie uma pasta e abra ela no terminal
 ### 2° execute dentro da pasta: git clone https://github.com/Alvesxz0/Atividade-Tela-PAMII.git
 ### 3° execute: cd Atividade-Tela-PAMII
