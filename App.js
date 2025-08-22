@@ -4,6 +4,7 @@ import { StyleSheet } from "react-native";
 import { createStackNavigator } from '@react-navigation/stack';
 import Tela1 from './pages/Tela1'
 import Tela2 from './pages/Tela2'
+import Tela3 from './pages/Tela3';
 
 const Stack = createStackNavigator();
 
@@ -13,6 +14,7 @@ export default function App() {
       <Stack.Navigator initialRouteName="tela1">
         <Stack.Screen name="tela1" component={Tela1} options={{headerShown: false}} />
         <Stack.Screen name="tela2" component={Tela2} options={{headerShown: false}} />
+        <Stack.Screen name="tela3" component={Tela3} options={{headerShown: false}} />
       </Stack.Navigator>
     </NavigationContainer>
   );
